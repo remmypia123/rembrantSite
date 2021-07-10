@@ -1,0 +1,41 @@
+body {
+	background: blanchedalmond;
+	font-weight: bold;
+	text-align: center;
+}
+button {
+	border border-radius: 5px;
+	font-weight: bold;
+	color: darkgoldenrod;
+	width: 200px;
+	height: 50px;
+	font-size: 30px;
+}
+inc-btn {
+	border-color: whitesmoke;
+}
+save-btn {
+	color: whitesmoke;
+	border-color: green;
+	margin-top: 500px;
+	margin-bottom: 10px;
+}
+h1 {
+	font-size: 200px;
+	margin-top: 100px;
+	margin-bottom: 10px;
+	color: black;
+
+}
+h2 {
+	font-size: 200px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	color:  black;
+}
+h3 {
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	color:  black;
+}
